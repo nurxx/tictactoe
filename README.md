@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe :x: :o: :x:
 
 Implement a Tic Tac Toe game against an opponent using the min-max algorithm with alpha-beta pruning.
 
